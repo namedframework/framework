@@ -1,0 +1,31 @@
+{
+  "name": "namedframework",
+  "version": "0.1.0",
+  "description": "Named Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/namedframework/framework.git"
+  },
+  "keywords": [
+    "NamedFramework"
+  ],
+  "author": "Sudarshan Pathak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/namedframework/framework/issues"
+  },
+  "homepage": "https://github.com/namedframework/framework#readme",
+  "dependencies": {
+    "async": "^2.4.1",
+    "connect-mongo": "^1.3.2",
+    "express": "^4.15.3",
+    "lodash": "^4.17.4",
+    "mongoose": "^4.10.1",
+    "pug": "^2.0.0-rc.2",
+    "recursive-readdir": "^2.2.1"
+  }
+}
