@@ -1,6 +1,12 @@
 # namedframework
 Named Framework
 
+## Getting Started
+```
+npm init
+npm install --save namedframework
+```
+
 ## App Structure
 
 * config -> App Configuration files
@@ -12,11 +18,12 @@ Named Framework
   * routes -> routes defined here
     * routes are mapped as directory structure (eg. server/routes/index.js to / , routes/pages/contact to /pages/contact)
   * views -> views files
+* app.js
 
 ## app.js
 ```js
 // require Framework
-var Framework = require('./namedframework');
+var Framework = require('namedframework');
 
 // chdir to app file
 process.chdir(__dirname);
@@ -134,6 +141,14 @@ home.js will be mapped to route /home
 * lib/utils/* will be mapped to Framework.utils[filename]
 * If file exports object it will be merged with Framework.utils
 
+## Run
+```
+node app.js
+```
+OR
+```
+nodemon app.js
+```
 
 ## Contributing
 Contributions are always welcome!
