@@ -11,7 +11,10 @@
     "url": "git+https://github.com/namedframework/framework.git"
   },
   "keywords": [
-    "NamedFramework"
+    "NodeJS Framework",
+    "Framework",
+    "API",
+    "CMS"
   ],
   "author": "Sudarshan Pathak",
   "license": "MIT",
