@@ -5,13 +5,7 @@
 
 * Routes based on directory structure.
 * Mongoose models
-* Rest API
-  * Authentication (local, Facebook)
-  * Enforce login
-  * File uploads
-  * Configuration on models
 * Easy Configuration
-
 
 ## Built With
 * [Express](http://expressjs.com/) - Fast, unopinionated, minimalist web framework for Node.js
