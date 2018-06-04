@@ -1,5 +1,5 @@
 # [namedframework](https://www.namedframework.com)
-> Namedframework and its Documentation are under development. Feedback and help is always welcome. **[Documentation](http://docs.namedframework.com/)**
+**[Documentation](http://docs.namedframework.com/)**
 
 ## Features
 
