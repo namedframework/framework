@@ -1,11 +1,27 @@
 # [namedframework](https://www.namedframework.com)
-**[Documentation](http://docs.namedframework.com/)**
+
+[![NPM](https://nodei.co/npm/namedframework.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/namedframework/)
+
+## **[Documentation](http://docs.namedframework.com/)**
 
 ## Features
 
 * Routes based on directory structure.
 * Mongoose models
+* Express middlewares made easy
 * Easy Configuration
+
+## Starter Features
+
+* User login.
+  * Local (Email / Password)
+  * Social (Facebook and Google)
+* User Profile
+* Admin Login
+* Admin Panel
+  * Dashboard
+  * Admins
+  * Users
 
 ## Built With
 * [Express](http://expressjs.com/) - Fast, unopinionated, minimalist web framework for Node.js
