@@ -1,6 +1,6 @@
 {
   "name": "namedframework",
-  "version": "1.0.0-beta.4",
+  "version": "1.0.0-beta.5",
   "description": "Named Framework",
   "main": "index.js",
   "scripts": {
@@ -21,12 +21,11 @@
   },
   "homepage": "https://github.com/namedframework/framework#readme",
   "dependencies": {
-    "async": "^2.6.3",
-    "express": "^4.17.1",
-    "lodash": "^4.17.15",
-    "mongoose": "^5.7.7",
-    "pug": "^2.0.4",
-    "recursive-readdir": "^2.2.2",
-    "slash": "^2.0.0"
+    "async": "^2.6.2",
+    "express": "^5.2.1",
+    "lodash": "^4.17.23",
+    "mongoose": "^9.2.4",
+    "pug": "^3.0.3",
+    "recursive-readdir": "^2.2.3"
   }
 }
